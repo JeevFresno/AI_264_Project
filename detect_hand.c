@@ -1,5 +1,5 @@
 //
-//  hand.c
+//  detect_hand.c
 //  Opencv
 //
 //  Created by Jeevjyot Singh Chhabda on 5/2/16.
